@@ -10,4 +10,5 @@ fun main() {
     val boolean = GenericClass<Boolean>(true)
     val valueBoolean : Boolean = boolean.data
     val char = GenericClass<Char>('S')
+    val valueChar : Char = char.data
 }
