@@ -13,7 +13,9 @@ class tampung{
 
 
 
-private fun setDataGeneric(val data : <T>){
+private fun Data(val data : <T>){
+
+    val dataString = Data<String>("Jalankan program ini")
 
 
 
