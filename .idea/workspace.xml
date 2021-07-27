@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a70833c-5744-4eb2-b953-d60b4d92c888" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Kotlin Generic/Main/GenericFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin Generic/Generic Class/GenericClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Generic/Main/GenericClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Generic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Generic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Generic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Generic/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Generic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Generic/Kotlin Generic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Generic/Main/GenericClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Generic/Main/GenericFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin Generic/Main/MainActivity.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,5 +57,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
