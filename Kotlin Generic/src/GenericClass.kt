@@ -11,6 +11,5 @@ fun main() {
  private fun DataBind(){
 
      val dataString = Data<String>("This Program run")
-     val valueString = dataString.data
-     println("ini Adalah hasil runya -> $valueString")
+     println("ini Adalah hasil runya -> ${dataString.data}")
  }
