@@ -12,5 +12,5 @@ fun main() {
 
      val dataString = Data<String>("This Program run")
      val valueString = dataString.data
-     println("ini Adalah hasil runya -> $dataString")
+     println("ini Adalah hasil runya -> $valueString")
  }
