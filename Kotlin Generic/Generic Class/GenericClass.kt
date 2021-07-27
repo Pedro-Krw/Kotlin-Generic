@@ -24,4 +24,6 @@ private fun setDataGeneric(){
     val valueChar : Char = char.data
 
 
+
+
 }
