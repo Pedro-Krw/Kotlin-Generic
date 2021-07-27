@@ -1,0 +1,8 @@
+class fung{
+
+    fun main() {
+
+    }
+
+}
+
