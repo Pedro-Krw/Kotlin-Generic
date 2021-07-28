@@ -12,10 +12,11 @@ fun main() {
 
      val dataString = Data<String>("This Program run")
      println("ini Adalah hasil runya -> ${dataString.data}")
+
+     val getBin : dataBin<T>
  }
 
 class dataBin<T>(val data_2 : T){
-
     val getStringData = dataBin<String> ("bin data_2")
     val getIntData = dataBin<Int>(23)
     val Think = true
