@@ -13,6 +13,8 @@ fun main() {
 
      val dataString = Data<String>("This Program run")
      println("ini Adalah hasil runya -> ${dataString.data}")
+     val dataset = dataBin<Boolean>(true)
+     print(dataset.setOutput())
 
 
  }
@@ -24,10 +26,19 @@ class dataBin<T>(val data_2 : T){
     val getBoolean = dataBin<Boolean>(Think)
 
 
-   fun setOutput
+    fun setOutput(){
+
+        print(getStringData)
+        print(getIntData)
+        print(getBoolean)
+
+
+    }
 
 
 }
 
 
+class dataSet{
 
+}
