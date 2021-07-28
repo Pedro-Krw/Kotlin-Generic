@@ -14,7 +14,6 @@ fun main() {
      val dataString = Data<String>("This Program run")
      println("ini Adalah hasil runya -> ${dataString.data}")
      val dataset = dataBin<Boolean>(true)
-     print(dataset.setOutput())
 
 
  }
