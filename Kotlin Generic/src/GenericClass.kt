@@ -14,4 +14,9 @@ fun main() {
      println("ini Adalah hasil runya -> ${dataString.data}")
  }
 
+class dataBin<T>(val data_2 : T){
+
+}
+
+
 
