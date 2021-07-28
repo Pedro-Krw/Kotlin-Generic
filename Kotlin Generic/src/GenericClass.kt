@@ -16,6 +16,9 @@ fun main() {
 
 class dataBin<T>(val data_2 : T){
 
+    val getStringData = dataBin<String> ("bin data_2")
+    val getIntData =
+
 }
 
 
