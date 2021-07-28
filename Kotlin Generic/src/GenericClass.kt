@@ -6,6 +6,7 @@ class Data <T>(val data : T){
 fun main() {
  DataBind()
 
+
 }
 
  private fun DataBind(){
@@ -13,7 +14,7 @@ fun main() {
      val dataString = Data<String>("This Program run")
      println("ini Adalah hasil runya -> ${dataString.data}")
 
-     val getBin : dataBin<T>
+
  }
 
 class dataBin<T>(val data_2 : T){
@@ -23,6 +24,7 @@ class dataBin<T>(val data_2 : T){
     val getBoolean = dataBin<Boolean>(Think)
 
 
+   fun setOutput
 
 
 }
